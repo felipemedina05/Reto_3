@@ -3,8 +3,7 @@ package Controlador;
 
 
 public enum EnumZona {
-    
-    Urbano,
-    Rural        
+    Rural,
+    Urbana        
     
 }
